@@ -8,10 +8,10 @@ Twitter clone developed with the MVC structure.
 - Luan Ribeiro @luanrsiqueira on Github
 
 # Skills
-- HTML 5 
+- HTML 5
+- CSS 3
 - PHP 7
 - MYSQL
-- CSS
 
 # How to use
 
