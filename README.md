@@ -1,7 +1,5 @@
-# Twitter_clone
+# The Twitter Clone Application
 Twitter clone developed with the MVC structure. 
-
-
 
 # Contributors
 - Geovani Amaral
