@@ -1,7 +1,7 @@
 # The Twitter Clone Application
 Twitter clone developed with the MVC structure. 
 
-![alt text](https://github.com/[iamageo]/[twitter_clone]/blob/[master]/twitter.PNG?raw=true)
+![Twitter clone](https://github.com/iamageo/twitter_clone/blob/master/twitter.PNG)
 
 # Contributors
 - Geovani Amaral
