@@ -1,11 +1,11 @@
 # Twitter_clone
 Twitter clone developed with the MVC structure. 
 
-adicionar imagem
+
 
 # Contributors
 - Geovani Amaral
-- Lian Ribeiro @luanrsiqueira on Github
+- Luan Ribeiro @luanrsiqueira on Github
 
 # Skills
 - HTML 5 
@@ -15,7 +15,7 @@ adicionar imagem
 # How to use
 
 1. First you need to create a database for application, a model for database in file database.txt
-2. Change the ip address in Conection.php class
+2. Change the ip address in App/Connection.php class
 
 After the created configurations start the server inside the public folder with the following command:
 
