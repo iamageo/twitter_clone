@@ -11,6 +11,7 @@ Twitter clone developed with the MVC structure.
 - HTML 5 
 - PHP 7
 - MYSQL
+- CSS
 
 # How to use
 
